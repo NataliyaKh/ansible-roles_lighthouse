@@ -1,0 +1,4 @@
+---
+# defaults file for lighthouse-role
+lighthouse_vcs: "https://github.com/VKCOM/lighthouse.git"
+lighthouse_location: /var/www/lighthouse
