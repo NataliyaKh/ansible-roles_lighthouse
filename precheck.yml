@@ -1,5 +1,5 @@
 ---
-- name: Lighthouse | install dependencies
-      ansible.builtin.apt:
-        name: git
-        state: present
+  - name: Lighthouse | install dependencies
+    ansible.builtin.apt:
+      name: git
+      state: present
