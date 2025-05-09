@@ -1,5 +1,5 @@
 ---
-  - src: git@github.com:NataliyaKh/ansible-roles.git
+  - src: git@github.com:NataliyaKh/ansible-roles_lighthouse.git
     scm: git
     version: "1.0"
     name: lighthouse-role
